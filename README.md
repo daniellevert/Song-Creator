@@ -11,5 +11,5 @@ C/C++, Arduino
 **Additional technologies:**
 Bluetooth sender/receiver, digital buttons, potentiometer
 
-**Customized and coded by:** 
+**Created by:** 
 Daniel LeVert, Adam Sammakia.
